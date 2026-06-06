@@ -17,6 +17,13 @@ Welcome to **iblogger-books**! This is a curated digital library containing summ
     ស្វែងយល់​​ពី​​វិធាន​​គិត​​ទាំង​​ ៤​​ យ៉ាង​​ ការ​​សង្ស័យ​​ជា​​សកល​​ ឃ្លា​​ដ៏​​ល្បីល្បាញ​​ «ខ្ញុំគិត ហេតុនេះទើបខ្ញុំមាន»​​ (Cogito, ergo sum)​​ និង​​ទ្វិនិយម​​រវាង​​រាងកាយ​​ និង​​ចិត្ត។  
     *Explore the 4 rules of reason, radical Cartesian doubt, the indubitable "Cogito, ergo sum", and Mind-Body dualism.*
 
+*   📕 **[Meditations on First Philosophy (René Descartes) — ១៦៤១](books/philosophy/meditations-on-first-philosophy/README.md)**  
+    <br/>
+    <img src="images/meditations_book_cover.png" width="180" alt="Meditations on First Philosophy Book Cover"/>
+    <br/>
+    ស្វែងយល់​​ពី​​ការ​​សញ្ជឹងគិត​​ទាំង​​ ៦​​ ថ្ងៃ​​ ការ​​សង្ស័យ​​ជា​​សកល​​ ឧបមាទកថា​​ដុំក្រមួន​​ តុល្យភាព​​រវាង​​បញ្ញា​​ និង​​ឆន្ទៈ​​ អំណះអំណាង​​អត្ថិភាព​​វិទ្យា​​នៃ​​ព្រះ​​ និង​​ទ្វិនិយម​​រាងកាយ​​ និង​​ចិត្ត។  
+    *Explore the 6 Meditations, radical doubt, the Wax Analogy, the balance of intellect and will, the Ontological Argument for God, and Mind-Body Dualism.*
+
 ---
 
 ## 🔑 ពាក្យគន្លឹះ (Keywords)
