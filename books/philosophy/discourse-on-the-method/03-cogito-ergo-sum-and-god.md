@@ -39,7 +39,7 @@ This chapter discusses the core of Cartesian philosophy. We will examine how Des
   'themeCSS': 'svg { background-color: #1e1e1e !important; padding: 1rem !important; border-radius: 8px !important; } .edgeLabel rect { fill: #1e1e1e !important; } text, tspan { fill: #ffffff !important; }'
 }}%%
 graph TD
-    A["Doubt Sensory Input<br/>(សង្ស័យលើ حواس/អារម្មណ៍)"] --> B["Doubt Reality/Dreams<br/>(សង្ស័យលើតថភាព/យល់សប្តិ)"]
+    A["Doubt Sensory Input<br/>(សង្ស័យលើវិញ្ញាណដឹង/អារម្មណ៍)"] --> B["Doubt Reality/Dreams<br/>(សង្ស័យលើតថភាព/យល់សប្តិ)"]
     B --> C["Doubt Evil Demon Hypothesis<br/>(សង្ស័យលើបិសាចបោកប្រាស់)"]
     C --> D["Foundational Truth: I am thinking<br/>(ការពិតគ្រឹះ៖ ខ្ញុំកំពុងគិត)"]
     D --> E["🔴 Cogito, ergo sum<br/>(ខ្ញុំគិត ហេតុនេះទើបខ្ញុំមាន)"]
