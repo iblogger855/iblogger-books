@@ -26,18 +26,7 @@
 This chapter discusses the core of Cartesian philosophy. We will examine how Descartes used Methodological Doubt on everything to find the single indubitable truth: "Cogito, ergo sum", and how he used rational arguments to prove the existence of God.
 
 ```mermaid
-%%{init: {
-  'theme': 'dark',
-  'themeVariables': {
-    'background': '#1e1e1e',
-    'primaryTextColor': '#ffffff',
-    'lineColor': '#a0a0a0',
-    'actorBkg': '#2c3e50',
-    'actorBorder': '#34495e',
-    'actorTextColor': '#ffffff'
-  },
-  'themeCSS': 'svg { background-color: #1e1e1e !important; padding: 1rem !important; border-radius: 8px !important; } .edgeLabel rect { fill: #1e1e1e !important; } text, tspan { fill: #ffffff !important; }'
-}}%%
+%%{init: { "theme": "dark", "themeVariables": { "background": "#1e1e1e", "primaryTextColor": "#ffffff", "lineColor": "#a0a0a0", "actorBkg": "#2c3e50", "actorBorder": "#34495e", "actorTextColor": "#ffffff" }, "themeCSS": "svg { background-color: #1e1e1e !important; padding: 1rem !important; border-radius: 8px !important; } .edgeLabel rect { fill: #1e1e1e !important; } text, tspan { fill: #ffffff !important; }" } }%%
 graph TD
     A["Doubt Sensory Input<br/>(សង្ស័យលើវិញ្ញាណដឹង/អារម្មណ៍)"] --> B["Doubt Reality/Dreams<br/>(សង្ស័យលើតថភាព/យល់សប្តិ)"]
     B --> C["Doubt Evil Demon Hypothesis<br/>(សង្ស័យលើបិសាចបោកប្រាស់)"]

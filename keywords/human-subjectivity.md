@@ -49,18 +49,7 @@ In philosophy, subjectivity refers to the quality of being a subject—an entity
 3.  ហេតុនេះ​​ **ស្វ័យប្រធានភាពមនុស្ស (Subjectivity)**​​ បាន​​ក្លាយ​​ជា​​ចំណុច​​ចាប់ផ្ដើម​​ និង​​ជា​​តម្រង​​នៃ​​រាល់​​ចំណេះដឹង​​វិទ្យាសាស្ត្រ​​ និង​​ការពិត​​ទាំងឡាយ។
 
 ```mermaid
-%%{init: {
-  'theme': 'dark',
-  'themeVariables': {
-    'background': '#1e1e1e',
-    'primaryTextColor': '#ffffff',
-    'lineColor': '#a0a0a0',
-    'actorBkg': '#2c3e50',
-    'actorBorder': '#34495e',
-    'actorTextColor': '#ffffff'
-  },
-  'themeCSS': 'svg { background-color: #1e1e1e !important; padding: 1rem !important; border-radius: 8px !important; } .edgeLabel rect { fill: #1e1e1e !important; } text, tspan { fill: #ffffff !important; }'
-}}%%
+%%{init: { "theme": "dark", "themeVariables": { "background": "#1e1e1e", "primaryTextColor": "#ffffff", "lineColor": "#a0a0a0", "actorBkg": "#2c3e50", "actorBorder": "#34495e", "actorTextColor": "#ffffff" }, "themeCSS": "svg { background-color: #1e1e1e !important; padding: 1rem !important; border-radius: 8px !important; } .edgeLabel rect { fill: #1e1e1e !important; } text, tspan { fill: #ffffff !important; }" } }%%
 graph TD
     A["Traditional Philosophy<br/>(ចាប់ផ្តើមពីពិភពខាងក្រៅ/ព្រះ)"] --> B["Objective Dogma<br/>(ជំនឿវត្ថុវិស័យដែលគ្មានការពិចារណា)"]
     C["Cartesian Philosophy<br/>(ចាប់ផ្តើមពីចិត្តបុគ្គល)"] --> D["Human Subjectivity<br/>(ស្វ័យប្រធានភាពមនុស្ស/មនសិការ)"]

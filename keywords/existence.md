@@ -50,18 +50,7 @@ In Khmer, the word is a compound of **"អត្ថិ"** (Pali: to be / to exis
 បន្ត​​មក​​ទៀត​​ គាត់​​ក៏​​បាន​​ប្រើ​​តក្កវិជ្ជា​​ដើម្បី​​បញ្ជាក់​​ពី​​ **«អត្ថិភាពនៃព្រះ (Existence of God)»**​​ ផង​​ដែរ។
 
 ```mermaid
-%%{init: {
-  'theme': 'dark',
-  'themeVariables': {
-    'background': '#1e1e1e',
-    'primaryTextColor': '#ffffff',
-    'lineColor': '#a0a0a0',
-    'actorBkg': '#2c3e50',
-    'actorBorder': '#34495e',
-    'actorTextColor': '#ffffff'
-  },
-  'themeCSS': 'svg { background-color: #1e1e1e !important; padding: 1rem !important; border-radius: 8px !important; } .edgeLabel rect { fill: #1e1e1e !important; } text, tspan { fill: #ffffff !important; }'
-}}%%
+%%{init: { "theme": "dark", "themeVariables": { "background": "#1e1e1e", "primaryTextColor": "#ffffff", "lineColor": "#a0a0a0", "actorBkg": "#2c3e50", "actorBorder": "#34495e", "actorTextColor": "#ffffff" }, "themeCSS": "svg { background-color: #1e1e1e !important; padding: 1rem !important; border-radius: 8px !important; } .edgeLabel rect { fill: #1e1e1e !important; } text, tspan { fill: #ffffff !important; }" } }%%
 graph TD
     A["💡 Cartesian Doubt<br/>(ការសង្ស័យគ្រប់យ៉ាង)"] --> B["🧠 Thinking Process<br/>(ការគិត/ការសង្ស័យ)"]
     B --> C["✅ Self-Existence<br/>(អត្ថិភាពរបស់ខ្លួនឯង)"]

@@ -36,18 +36,7 @@ This final chapter details Descartes' view on two points: first, the distinction
 ទោះបី​​ជា​​ផ្នែក​​ទាំងពីរ​​នេះ​​ខុសគ្នា​​ក៏ដោយ​​ ក៏​​វា​​មាន​​ទំនាក់ទំនង​​គ្នា​​យ៉ាង​​ជិតស្និទ្ធ​​តាម​​រយៈ​​ «ក្រពេញភីណេអាល់ (Pineal Gland)»​​ នៅ​​ក្នុង​​ខួរក្បាល​​ ដែល​​ដេកាត​​ជឿ​​ថា​​ជា​​កន្លែង​​ជួបគ្នា​​រវាង​​ព្រលឹង​​ និង​​រាងកាយ។
 
 ```mermaid
-%%{init: {
-  'theme': 'dark',
-  'themeVariables': {
-    'background': '#1e1e1e',
-    'primaryTextColor': '#ffffff',
-    'lineColor': '#a0a0a0',
-    'actorBkg': '#2c3e50',
-    'actorBorder': '#34495e',
-    'actorTextColor': '#ffffff'
-  },
-  'themeCSS': 'svg { background-color: #1e1e1e !important; padding: 1rem !important; border-radius: 8px !important; } .edgeLabel rect { fill: #1e1e1e !important; } text, tspan { fill: #ffffff !important; }'
-}}%%
+%%{init: { "theme": "dark", "themeVariables": { "background": "#1e1e1e", "primaryTextColor": "#ffffff", "lineColor": "#a0a0a0", "actorBkg": "#2c3e50", "actorBorder": "#34495e", "actorTextColor": "#ffffff" }, "themeCSS": "svg { background-color: #1e1e1e !important; padding: 1rem !important; border-radius: 8px !important; } .edgeLabel rect { fill: #1e1e1e !important; } text, tspan { fill: #ffffff !important; }" } }%%
 graph LR
     Sub1["Res Cogitans<br/>(ចិត្ត/ព្រលឹង)"] <--> Gland["Pineal Gland<br/>(ក្រពេញភីណេអាល់)"]
     Gland <--> Sub2["Res Extensa<br/>(រាងកាយ/រូបធាតុ)"]

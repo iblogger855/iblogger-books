@@ -44,18 +44,7 @@ René Descartes (1596–1650) was a prominent French philosopher, mathematician,
 ដេកាត​​បាន​​រកឃើញ​​ថា​​ ចំណេះដឹង​​ទាំងនោះ​​មាន​​ភាព​​មិន​​ច្បាស់លាស់​​ និង​​ពោរពេញ​​ទៅ​​ដោយ​​ការ​​សង្ស័យ។​​ គាត់​​ចង់​​បង្កើត​​វិធីសាស្ត្រ​​មួយ​​ដែល​​ផ្តល់​​នូវ​​ការពិត​​ច្បាស់លាស់​​ដូច​​គណិតវិទ្យា​​ ដែល​​មិន​​អាច​​ប្រកែក​​បាន។
 
 ```mermaid
-%%{init: {
-  'theme': 'dark',
-  'themeVariables': {
-    'background': '#1e1e1e',
-    'primaryTextColor': '#ffffff',
-    'lineColor': '#a0a0a0',
-    'actorBkg': '#2c3e50',
-    'actorBorder': '#34495e',
-    'actorTextColor': '#ffffff'
-  },
-  'themeCSS': 'svg { background-color: #1e1e1e !important; padding: 1rem !important; border-radius: 8px !important; } .edgeLabel rect { fill: #1e1e1e !important; } text, tspan { fill: #ffffff !important; }'
-}}%%
+%%{init: { "theme": "dark", "themeVariables": { "background": "#1e1e1e", "primaryTextColor": "#ffffff", "lineColor": "#a0a0a0", "actorBkg": "#2c3e50", "actorBorder": "#34495e", "actorTextColor": "#ffffff" }, "themeCSS": "svg { background-color: #1e1e1e !important; padding: 1rem !important; border-radius: 8px !important; } .edgeLabel rect { fill: #1e1e1e !important; } text, tspan { fill: #ffffff !important; }" } }%%
 graph TD
     A["Scholasticism<br/>(ទស្សនវិជ្ជាសាលា)"] -->|Authority & Dogma| B["Intellectual Stagnation<br/>(ការស្ទះគំនិតវិទ្យាសាស្ត្រ)"]
     C["Cartesian Rationalism<br/>(ហេតុផលនិយមដេកាត)"] -->|Doubt & Logic| D["Scientific Revolution<br/>(បដិវត្តន៍វិទ្យាសាស្ត្រ)"]

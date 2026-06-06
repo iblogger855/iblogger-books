@@ -27,18 +27,7 @@
 To ensure that the search for truth is accurate, Descartes established 4 rules for thinking and problem-solving. These rules became the cornerstone of the modern scientific method, helping individuals avoid biases and cognitive errors in decision-making.
 
 ```mermaid
-%%{init: {
-  'theme': 'dark',
-  'themeVariables': {
-    'background': '#1e1e1e',
-    'primaryTextColor': '#ffffff',
-    'lineColor': '#a0a0a0',
-    'actorBkg': '#2c3e50',
-    'actorBorder': '#34495e',
-    'actorTextColor': '#ffffff'
-  },
-  'themeCSS': 'svg { background-color: #1e1e1e !important; padding: 1rem !important; border-radius: 8px !important; } .edgeLabel rect { fill: #1e1e1e !important; } text, tspan { fill: #ffffff !important; }'
-}}%%
+%%{init: { "theme": "dark", "themeVariables": { "background": "#1e1e1e", "primaryTextColor": "#ffffff", "lineColor": "#a0a0a0", "actorBkg": "#2c3e50", "actorBorder": "#34495e", "actorTextColor": "#ffffff" }, "themeCSS": "svg { background-color: #1e1e1e !important; padding: 1rem !important; border-radius: 8px !important; } .edgeLabel rect { fill: #1e1e1e !important; } text, tspan { fill: #ffffff !important; }" } }%%
 graph TD
     A["💡 Problem Input<br/>(បញ្ហាដំបូង)"] --> B["1. Doubt & Skepticism<br/>(ការសង្ស័យ/មិនទាន់ជឿ)"]
     B --> C["2. Analysis & Break down<br/>(ការបំបែកបញ្ហាស្មុគស្មាញ)"]
