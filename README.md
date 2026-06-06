@@ -13,3 +13,11 @@ Welcome to **iblogger-books**! This is a curated digital library containing summ
 *   🧭 **[Discourse on the Method (René Descartes) — ១៦៣៧](books/philosophy/discourse-on-the-method/README.md)**  
     ស្វែងយល់​​ពី​​វិធាន​​គិត​​ទាំង​​ ៤​​ យ៉ាង​​ ការ​​សង្ស័យ​​ជា​​សកល​​ ឃ្លា​​ដ៏​​ល្បីល្បាញ​​ «ខ្ញុំគិត ហេតុនេះទើបខ្ញុំមាន»​​ (Cogito, ergo sum)​​ និង​​ទ្វិនិយម​​រវាង​​រាងកាយ​​ និង​​ចិត្ត។  
     *Explore the 4 rules of reason, radical Cartesian doubt, the indubitable "Cogito, ergo sum", and Mind-Body dualism.*
+
+---
+
+## 🔑 ពាក្យគន្លឹះ (Keywords)
+
+*   🌐 **[ភាសាឡាតាំង (Latin Language)](keywords/latin.md)**  
+    ស្វែងយល់​​ពី​​ដើម​​កំណើត​​ ប្រវត្តិសាស្ត្រ​​ និង​​ឥទ្ធិពល​​ដ៏​​សំខាន់​​របស់​​ភាសាឡាតាំង​​លើ​​វិស័យ​​វិទ្យាសាស្ត្រ​​ និង​​ទស្សនវិជ្ជា​​ទំនើប។  
+    *Learn about the origins, history, and significant influence of the Latin language on modern science and philosophy.*
