@@ -28,3 +28,7 @@ Welcome to **iblogger-books**! This is a curated digital library containing summ
 *   🌱 **[អត្ថិភាព (Existence / Being)](keywords/existence.md)**  
     សិក្សា​​ពី​​និយមន័យ​​ទស្សនវិជ្ជា​​នៃ​​ពាក្យ​​ «អត្ថិភាព»​​ គំនិត​​របស់​​ដេកាត​​ និង​​ភាព​​ខុសគ្នា​​រវាង​​សត្តវិទ្យា​​ (Ontology)​​ និង​​អត្ថិភាព​​និយម​​ (Existentialism)។  
     *Learn about the philosophical definition of "Existence", Descartes' view, and the difference between Ontology and Existentialism.*
+
+*   🧠 **[ស្វ័យប្រធានភាពមនុស្ស (Human Subjectivity)](keywords/human-subjectivity.md)**  
+    ស្វែងយល់​​ពី​​និយមន័យ​​ទស្សនវិជ្ជា​​នៃ​​មនសិការ​​ និង​​បទពិសោធន៍​​បុគ្គល​​ របត់​​ដេកាត​​ឆ្ពោះ​​ទៅ​​រក​​ស្វ័យប្រធានភាព​​ និង​​ការ​​ប្រៀបធៀប​​រវាង​​ស្វ័យប្រធានភាព​​ និង​​វត្ថុវិស័យភាព​​ (Objectivity)។  
+    *Learn about the philosophical definition of consciousness and individual experience, the Cartesian shift to subjectivity, and subjectivity vs. objectivity.*
