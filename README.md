@@ -32,3 +32,7 @@ Welcome to **iblogger-books**! This is a curated digital library containing summ
 *   🧠 **[ស្វ័យប្រធានភាពមនុស្ស (Human Subjectivity)](keywords/human-subjectivity.md)**  
     ស្វែងយល់​​ពី​​និយមន័យ​​ទស្សនវិជ្ជា​​នៃ​​មនសិការ​​ និង​​បទពិសោធន៍​​បុគ្គល​​ របត់​​ដេកាត​​ឆ្ពោះ​​ទៅ​​រក​​ស្វ័យប្រធានភាព​​ និង​​ការ​​ប្រៀបធៀប​​រវាង​​ស្វ័យប្រធានភាព​​ និង​​វត្ថុវិស័យភាព​​ (Objectivity)។  
     *Learn about the philosophical definition of consciousness and individual experience, the Cartesian shift to subjectivity, and subjectivity vs. objectivity.*
+
+*   🧭 **[វិធានសួរហេតុអ្វី ៥ ដង (Five Whys Technique)](keywords/five-whys.md)**  
+    សិក្សា​​ពី​​វិធីសាស្ត្រ​​ដោះស្រាយ​​បញ្ហា​​ និង​​ការ​​ស្វែងរក​​ឫសគល់​​នៃ​​បញ្ហា​​ (Root Cause Analysis)​​ ព្រមទាំង​​របៀប​​ដែល​​វិធីសាស្ត្រ​​នេះ​​ទទួល​​បាន​​អត្ថប្រយោជន៍​​ពី​​ការ​​សង្ស័យ​​ជា​​ប្រព័ន្ធ​​ Cartesian Doubt​​ និង​​គំនិត​​ Cogito​​ របស់​​ដេកាត។  
+    *Learn about the 5 Whys problem-solving methodology, root cause analysis, and how it benefits from Cartesian Doubt and Cogito.*
