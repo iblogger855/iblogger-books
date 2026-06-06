@@ -11,6 +11,9 @@ Welcome to **iblogger-books**! This is a curated digital library containing summ
 ### 🧠 ទស្សនវិជ្ជា (Philosophy)
 
 *   🧭 **[Discourse on the Method (René Descartes) — ១៦៣៧](books/philosophy/discourse-on-the-method/README.md)**  
+    <br/>
+    <img src="images/descartes_book_cover.png" width="180" alt="Discourse on the Method Book Cover"/>
+    <br/>
     ស្វែងយល់​​ពី​​វិធាន​​គិត​​ទាំង​​ ៤​​ យ៉ាង​​ ការ​​សង្ស័យ​​ជា​​សកល​​ ឃ្លា​​ដ៏​​ល្បីល្បាញ​​ «ខ្ញុំគិត ហេតុនេះទើបខ្ញុំមាន»​​ (Cogito, ergo sum)​​ និង​​ទ្វិនិយម​​រវាង​​រាងកាយ​​ និង​​ចិត្ត។  
     *Explore the 4 rules of reason, radical Cartesian doubt, the indubitable "Cogito, ergo sum", and Mind-Body dualism.*
 

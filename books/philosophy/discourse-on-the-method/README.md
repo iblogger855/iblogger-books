@@ -6,6 +6,10 @@
 **Category:** Philosophy  
 **Read Time:** ~3 min
 
+<br/>
+<img src="../../../images/descartes_book_cover.png" width="220" alt="Discourse on the Method Book Cover"/>
+<br/>
+
 ---
 
 ## 📌 មាតិកា (Table of Contents)
