@@ -24,3 +24,7 @@ Welcome to **iblogger-books**! This is a curated digital library containing summ
 *   🌐 **[ភាសាឡាតាំង (Latin Language)](keywords/latin.md)**  
     ស្វែងយល់​​ពី​​ដើម​​កំណើត​​ ប្រវត្តិសាស្ត្រ​​ និង​​ឥទ្ធិពល​​ដ៏​​សំខាន់​​របស់​​ភាសាឡាតាំង​​លើ​​វិស័យ​​វិទ្យាសាស្ត្រ​​ និង​​ទស្សនវិជ្ជា​​ទំនើប។  
     *Learn about the origins, history, and significant influence of the Latin language on modern science and philosophy.*
+
+*   🌱 **[អត្ថិភាព (Existence / Being)](keywords/existence.md)**  
+    សិក្សា​​ពី​​និយមន័យ​​ទស្សនវិជ្ជា​​នៃ​​ពាក្យ​​ «អត្ថិភាព»​​ គំនិត​​របស់​​ដេកាត​​ និង​​ភាព​​ខុសគ្នា​​រវាង​​សត្តវិទ្យា​​ (Ontology)​​ និង​​អត្ថិភាព​​និយម​​ (Existentialism)។  
+    *Learn about the philosophical definition of "Existence", Descartes' view, and the difference between Ontology and Existentialism.*
