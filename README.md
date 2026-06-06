@@ -36,3 +36,7 @@ Welcome to **iblogger-books**! This is a curated digital library containing summ
 *   🧭 **[វិធានសួរហេតុអ្វី ៥ ដង (Five Whys Technique)](keywords/five-whys.md)**  
     សិក្សា​​ពី​​វិធីសាស្ត្រ​​ដោះស្រាយ​​បញ្ហា​​ និង​​ការ​​ស្វែងរក​​ឫសគល់​​នៃ​​បញ្ហា​​ (Root Cause Analysis)​​ ព្រមទាំង​​របៀប​​ដែល​​វិធីសាស្ត្រ​​នេះ​​ទទួល​​បាន​​អត្ថប្រយោជន៍​​ពី​​ការ​​សង្ស័យ​​ជា​​ប្រព័ន្ធ​​ Cartesian Doubt​​ និង​​គំនិត​​ Cogito​​ របស់​​ដេកាត។  
     *Learn about the 5 Whys problem-solving methodology, root cause analysis, and how it benefits from Cartesian Doubt and Cogito.*
+
+*   ⚖️ **[ក្រមសីលធម៌បណ្តោះអាសន្ន (Provisional Moral Code)](keywords/provisional-moral-code.md)**  
+    ស្វែងយល់​​ពី​​មេកានិច​​នៃ​​បញ្ហា​​ «វិបត្តិផ្អាកសកម្មភាព»​​ ឧបមាទកថា​​ «ផ្ទះបណ្ដោះអាសន្ន»​​ និង​​វិធាន​​រស់នៅ​​ទាំង​​ ៤​​ របស់​​ដេកាត​​ក្នុង​​កំឡុង​​ពេល​​សង្ស័យ​​ជា​​ប្រព័ន្ធ។  
+    *Learn about the dilemma of inaction, the temporary house analogy, and Descartes' 4 moral maxims during methodological doubt.*
