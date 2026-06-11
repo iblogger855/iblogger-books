@@ -22,7 +22,7 @@
 
 នៅ​​ក្នុងការសញ្ជឹងគិត​​ពីរ​​ថ្ងៃ​​ចុងក្រោយ​​ លោក​​ Descartes​​ បាន​​បង្ហាញ​​ពី​​ **«អំណះអំណាងអត្ថិភាពវិទ្យា (Ontological Argument)»**​​ ដើម្បី​​បញ្ជាក់​​ពី​​ [អត្ថិភាព](../../../keywords/existence.md)​​ របស់​​ព្រះ​​តាម​​រយៈ​​គំនិត​​ឥតខ្ចោះ​​ និង​​ធរណីមាត្រ។​​ បន្ទាប់​​មក​​ គាត់​​បាន​​ទាញ​​សេចក្តី​​សន្និដ្ឋាន​​ថា​​ ពិភព​​រូបធាតុ​​ខាងក្រៅ​​ពិត​​ជា​​មាន​​ [អត្ថិភាព](../../../keywords/existence.md)​​ មែន​​ និង​​បាន​​ពន្យល់​​យ៉ាង​​លម្អិត​​អំពី​​ «ទ្វិនិយមរាងកាយនិងចិត្ត»​​ ដែល​​ជា​​ចំណុច​​បញ្ចប់​​នៃការសញ្ជឹងគិត​​របស់​​គាត់។
 
-In the final two Meditations, Descartes presents the **Ontological Argument** for God's [existence](../../../keywords/existence.md) using geometry and perfection. He then concludes that the external material world does indeed [exist](../../../keywords/existence.md), and details the "Mind-Body Dualism" (Res Cogitans vs. Res Extensa).
+> *In the final two Meditations, Descartes presents the **Ontological Argument** for God's [existence](../../../keywords/existence.md) using geometry and perfection. He then concludes that the external material world does indeed [exist](../../../keywords/existence.md), and details the "Mind-Body Dualism" (Res Cogitans vs. Res Extensa).*
 
 ---
 
@@ -60,7 +60,7 @@ In the final two Meditations, Descartes presents the **Ontological Argument** fo
 graph TD
     A["👤 Human Being<br/>(មនុស្សលោក)"] --> B["🧠 Mind / Res Cogitans<br/>(ចិត្ត - មិនអាចបំបែកបាន)"]
     A --> C["🦾 Body / Res Extensa<br/>(រាងកាយ - អាចបំបែកបាន)"]
-    B <-->|Joined at Pineal Gland| C
+> *B <-->|Joined at Pineal Gland| C*
 
     style B fill:#27ae60,color:#fff
     style C fill:#2980b9,color:#fff

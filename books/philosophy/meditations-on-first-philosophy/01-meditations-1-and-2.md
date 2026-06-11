@@ -23,7 +23,7 @@
 
 នៅ​​ក្នុង​​ការសញ្ជឹងគិត​​ពីរ​​ថ្ងៃ​​ដំបូង​​ លោក​​ Descartes​​ បាន​​ចាប់ផ្ដើម​​ដំណើរ​​រុករក​​របស់​​គាត់​​ ដោយ​​វាយកម្ទេច​​ចោល​​នូវ​​រាល់​​ជំនឿ​​ទាំងឡាយ​​ដែល​​គាត់​​ធ្លាប់​​មាន​​ (ការសង្ស័យជាប្រព័ន្ធ)​​ ដើម្បី​​ស្វែងរក​​នូវ​​ការពិត​​ដែល​​មិន​​អាច​​សង្ស័យ​​បាន។​​ បន្ទាប់​​មក​​ គាត់​​បាន​​រកឃើញ​​ថា​​ ទោះ​​បី​​ជា​​សង្ស័យ​​ដល់​​កម្រិត​​ណា​​ក៏​​ដោយ​​ ក៏​​គាត់​​មិន​​អាច​​សង្ស័យ​​លើ​​ [អត្ថិភាព](../../../keywords/existence.md)​​ របស់​​ខ្លួនឯង​​ដែល​​កំពុង​​គិត​​បាន​​ឡើយ​​ ព្រម​​ទាំង​​បង្ហាញ​​ថា​​ ចិត្ត​​របស់​​មនុស្ស​​គឺ​​ងាយ​​ស្គាល់​​ជាង​​រាងកាយ​​ តាម​​រយៈ​​ «ឧបមាទកថា​​ដុំក្រមួន»។
 
-In the first two Meditations, Descartes begins his journey by demolishing all his former beliefs (radical doubt) to find an indubitable truth. He discovers that no matter how much he doubts, he cannot doubt his own [existence](../../../keywords/existence.md) as a thinking thing. He then demonstrates that the mind is better known than the body through the famous "Wax Analogy".
+> *In the first two Meditations, Descartes begins his journey by demolishing all his former beliefs (radical doubt) to find an indubitable truth. He discovers that no matter how much he doubts, he cannot doubt his own [existence](../../../keywords/existence.md) as a thinking thing. He then demonstrates that the mind is better known than the body through the famous "Wax Analogy".*
 
 ---
 

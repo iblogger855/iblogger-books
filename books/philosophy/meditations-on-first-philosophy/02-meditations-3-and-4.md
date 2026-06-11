@@ -22,7 +22,7 @@
 
 បន្ទាប់​​ពី​​បាន​​រកឃើញ​​ការពិត​​អំពី​​ខ្លួនឯង​​ ដេកាត​​បាន​​បន្ត​​សញ្ជឹងគិត​​ទៅ​​លើ​​ **«អត្ថិភាពនៃព្រះ»**​​ ព្រោះ​​ដរាប​​ណា​​គាត់​​មិន​​ទាន់​​ប្រាកដ​​ថា​​ព្រះ​​មាន​​ពិត​​ និង​​មិន​​មែន​​ជា​​អ្នក​​បោកប្រាស់​​ទេ​​នោះ​​ គាត់​​ក៏​​មិន​​អាច​​ប្រាកដ​​លើ​​ចំណេះដឹង​​អ្វី​​ផ្សេង​​ទៀត​​បាន​​ឡើយ។​​ បន្ទាប់​​មក​​ គាត់​​បាន​​វិភាគ​​លើ​​ប្រភព​​នៃ​​កំហុស​​ឆ្គង​​របស់​​មនុស្ស​​ ដោយ​​ពន្យល់​​ពី​​តុល្យភាព​​រវាង​​ «បញ្ញា»​​ និង​​ «ឆន្ទៈ»។
 
-After establishing self-existence, Descartes turns to the **[existence](../../../keywords/existence.md) of God**. Without knowing if a non-deceiving God exists, he cannot be certain of anything else. He then analyzes the source of human error, explaining it through the relationship between the finite intellect and the infinite will.
+> *After establishing self-existence, Descartes turns to the **[existence](../../../keywords/existence.md) of God**. Without knowing if a non-deceiving God exists, he cannot be certain of anything else. He then analyzes the source of human error, explaining it through the relationship between the finite intellect and the infinite will.*
 
 ---
 

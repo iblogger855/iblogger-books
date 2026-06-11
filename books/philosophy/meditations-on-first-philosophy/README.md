@@ -43,6 +43,20 @@
 * 🌍 **[ជំពូកទី ៣ ➔ ការសញ្ជឹងគិតទី ៥ និងទី ៦ (Meditations V & VI)](03-meditations-5-and-6.md)**  
   ការ​​បញ្ជាក់​​ពី​​អត្ថិភាព​​របស់​​ព្រះ​​តាម​​រយៈ​​ធរណីមាត្រ​​ (Ontological Argument)​​ ការ​​វិល​​ត្រឡប់​​នៃ​​អត្ថិភាព​​ពិភព​​រូបធាតុ​​ និង​​ការ​​លម្អិត​​ពី​​ទ្វិនិយម​​រាងកាយ​​ និង​​ចិត្ត​​ (Mind-Body Dualism)។
 
+### 🔬 ការសិក្សាស៊ីជម្រៅលើការសញ្ជឹងគិតទី ៣ (Deep Dive: Meditation III)
+
+* 💡 **[ជំពូកទី ៤ ➔ គំនិត និងកម្រិតនៃតថភាព (Ideas and Degrees of Reality)](04-deep-dive-med3-ideas-and-reality.md)**  
+  គំនិត​​បី​​ប្រភេទ​​ (ពីកំណើត​​ មកពីខាងក្រៅ​​ ប្រឌិត)​​ តថភាពផ្លូវការ​​ និង​​តថភាពវត្ថុវិស័យ​​ ព្រម​​ទាំង​​គោលការណ៍​​ភាពគ្រប់គ្រាន់​​នៃ​​បុព្វហេតុ​​ — ឧបករណ៍​​ទាំង​​ ៣​​ ដែល​​ទ្រទ្រង់​​អំណះអំណាង​​ទាំង​​មូល។  
+  *The three kinds of ideas, formal vs objective reality, and the causal adequacy principle — the 3 tools behind the whole argument.*
+
+* ✝️ **[ជំពូកទី ៥ ➔ អំណះអំណាងស្លាកសញ្ញា (The Trademark Argument)](05-deep-dive-med3-trademark-argument.md)**  
+  អំណះអំណាង​​មួយ​​ជំហាន​​ម្ដងៗ​​ ហេតុអ្វី​​សភាវៈ​​មាន​​កំណត់​​មិន​​អាច​​ជា​​ប្រភព​​នៃ​​គំនិត​​អនន្ត​​ និង​​ឧបមា​​ «ស្លាកសញ្ញា​​របស់​​ជាង​​សិប្បករ»​​ ដែល​​នាំ​​ដេកាត​​ចេញ​​ពី​​អត្តាឯកនិយម។  
+  *The argument step by step, why a finite being cannot source the idea of the infinite, and the craftsman's-mark metaphor that leads Descartes out of solipsism.*
+
+* 🔄 **[ជំពូកទី ៦ ➔ រង្វង់ដេកាត និងការរិះគន់ (The Cartesian Circle & Critiques)](06-deep-dive-med3-circle-and-critiques.md)**  
+  ការ​​ជំទាស់​​របស់​​ Arnauld​​ ការការពារ​​ដោយ​​ការ​​ចងចាំ​​ ការ​​រិះគន់​​ពី​​ពិសោធន៍និយម​​ (Hobbes,​​ Gassendi,​​ Locke,​​ Hume)​​ និង​​កេរ្តិ៍ដំណែល​​ក្នុង​​ញាណវិទ្យា​​សម័យ​​ទំនើប។  
+  *Arnauld's circle objection, the memory defense, the empiricist critiques, and the legacy in modern epistemology.*
+
 ---
 
 <a id="2"></a>
