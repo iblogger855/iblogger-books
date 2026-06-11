@@ -120,5 +120,5 @@ graph TD
 * **Descartes, R.** (1641). *Meditations on First Philosophy* (Meditation III).
 * **Descartes, R.** (1641). *Objections and Replies* (Second, Third, Fourth & Fifth Sets; Arnauld, Hobbes, Gassendi).
 * **Van Cleve, J.** (1979). "Foundationalism, Epistemic Principles, and the Cartesian Circle." *The Philosophical Review*, 88(1).
-* [ជំពូកមុន៖ អំណះអំណាងស្លាកសញ្ញា (prev: The Trademark Argument)](05-deep-dive-med3-trademark-argument.md)
+* [ជំពូកមុន៖ អំណះអំណាងស្លាកសញ្ញា (prev: The Trademark Argument)](05-meditation-3-trademark-argument.md)
 * [ទិដ្ឋភាពទូទៅ៖ Meditations 3 & 4 (Meditations 3 & 4 overview)](02-meditations-3-and-4.md)

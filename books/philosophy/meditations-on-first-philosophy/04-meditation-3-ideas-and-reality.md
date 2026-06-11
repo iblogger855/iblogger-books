@@ -149,5 +149,5 @@ graph LR
 * **Descartes, R.** (1641). *Meditations on First Philosophy*, Meditation III ("Of God, that He exists").
 * **Cottingham, J., Stoothoff, R., & Murdoch, D.** (trans., 1984). *The Philosophical Writings of Descartes*, Vol. II.
 * [ទិដ្ឋភាពទូទៅនៃការសញ្ជឹងគិតទី ៣ និងទី ៤ (Meditations 3 & 4 overview)](02-meditations-3-and-4.md)
-* [បន្ទាប់៖ អំណះអំណាងស្លាកសញ្ញា (Next: The Trademark Argument)](05-deep-dive-med3-trademark-argument.md)
-* [បន្តបន្ទាប់៖ រង្វង់ដេកាត និងការរិះគន់ (Then: The Cartesian Circle & Critiques)](06-deep-dive-med3-circle-and-critiques.md)
+* [បន្ទាប់៖ អំណះអំណាងស្លាកសញ្ញា (Next: The Trademark Argument)](05-meditation-3-trademark-argument.md)
+* [បន្តបន្ទាប់៖ រង្វង់ដេកាត និងការរិះគន់ (Then: The Cartesian Circle & Critiques)](06-meditation-3-circle-and-critiques.md)

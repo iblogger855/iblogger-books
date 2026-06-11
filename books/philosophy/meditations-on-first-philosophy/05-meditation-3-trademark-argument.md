@@ -117,6 +117,6 @@ graph LR
 ## ឯកសារយោង (References)
 
 * **Descartes, R.** (1641). *Meditations on First Philosophy* (Meditation III). Trans. J. Cottingham, in *The Philosophical Writings of Descartes*, Vol. II (Cambridge University Press, 1984).
-* [ជំពូកមុន៖ គំនិត និងកម្រិតនៃតថភាព (prev: Ideas and Degrees of Reality)](04-deep-dive-med3-ideas-and-reality.md)
-* [ជំពូកបន្ទាប់៖ រង្វង់ដេកាត និងការរិះគន់ (next: The Cartesian Circle & Critiques)](06-deep-dive-med3-circle-and-critiques.md)
+* [ជំពូកមុន៖ គំនិត និងកម្រិតនៃតថភាព (prev: Ideas and Degrees of Reality)](04-meditation-3-ideas-and-reality.md)
+* [ជំពូកបន្ទាប់៖ រង្វង់ដេកាត និងការរិះគន់ (next: The Cartesian Circle & Critiques)](06-meditation-3-circle-and-critiques.md)
 * [ទិដ្ឋភាពទូទៅនៃការសញ្ជឹងគិតទី ៣ និងទី ៤ (Meditations 3 & 4 overview)](02-meditations-3-and-4.md)
