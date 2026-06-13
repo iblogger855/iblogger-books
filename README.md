@@ -21,8 +21,8 @@ Welcome to **iblogger-books**! This is a curated digital library containing summ
     <br/>
     <img src="images/meditations_book_cover.png" width="180" alt="Meditations on First Philosophy Book Cover"/>
     <br/>
-    ស្វែងយល់​​ពី​​ការ​​សញ្ជឹងគិត​​ទាំង​​ ៦​​ ថ្ងៃ​​ ការ​​សង្ស័យ​​ជា​​សកល​​ ឧបមាទកថា​​ដុំក្រមួន​​ តុល្យភាព​​រវាង​​បញ្ញា​​ និង​​ឆន្ទៈ​​ អំណះអំណាង​​អត្ថិភាព​​វិទ្យា​​នៃ​​ព្រះ​​ និង​​ទ្វិនិយម​​រាងកាយ​​ និង​​ចិត្ត។  
-    *Explore the 6 Meditations, radical doubt, the Wax Analogy, the balance of intellect and will, the Ontological Argument for God, and Mind-Body Dualism.*
+    ស្វែងយល់​​ពី​​ការ​​សញ្ជឹងគិត​​ទាំង​​ ៦​​ ថ្ងៃ​​ ការ​​សង្ស័យ​​ជា​​សកល​​ ឧបមាទកថា​​ដុំក្រមួន​​ តុល្យភាព​​រវាង​​បញ្ញា​​ និង​​ឆន្ទៈ​​ អំណះអំណាង​​អត្ថិភាព​​វិទ្យា​​នៃ​​ព្រះ​​ និង​​ទ្វិនិយម​​រាងកាយ​​ និង​​ចិត្ត ព្រមទាំងការសិក្សាស៊ីជម្រៅ ៣ ជំពូក លើការសញ្ជឹងគិតទី ៣ (អំណះអំណាងស្លាកសញ្ញា និងរង្វង់ដេកាត)។  
+    *Explore the 6 Meditations, radical doubt, the Wax Analogy, the balance of intellect and will, the Ontological Argument for God, and Mind-Body Dualism — plus a 3-chapter deep dive into Meditation III (the Trademark Argument and the Cartesian Circle).*
 
 ---
 
